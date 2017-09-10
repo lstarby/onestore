@@ -11,6 +11,11 @@
     <name>onestore-web Maven Webapp</name>
     <url>http://maven.apache.org</url>
     <dependencies>
+        <dependency>
+            <artifactId>onestore-service</artifactId>
+            <groupId>com.onestore</groupId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
         <!--JSP相关-->
         <dependency>
             <groupId>javax.servlet</groupId>
