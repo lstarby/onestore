@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/onestore-common/onestore-common.iml" filepath="$PROJECT_DIR$/onestore-common/onestore-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onestore-manager/onestore-dao/onestore-dao.iml" filepath="$PROJECT_DIR$/onestore-manager/onestore-dao/onestore-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onestore-manager/onestore-manager.iml" filepath="$PROJECT_DIR$/onestore-manager/onestore-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onestore-parent/onestore-parent.iml" filepath="$PROJECT_DIR$/onestore-parent/onestore-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onestore-manager/onestore-pojo/onestore-pojo.iml" filepath="$PROJECT_DIR$/onestore-manager/onestore-pojo/onestore-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onestore-manager/onestore-service/onestore-service.iml" filepath="$PROJECT_DIR$/onestore-manager/onestore-service/onestore-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onestore-manager/onestore-web/onestore-web.iml" filepath="$PROJECT_DIR$/onestore-manager/onestore-web/onestore-web.iml" />
+    </modules>
+  </component>
+</project>

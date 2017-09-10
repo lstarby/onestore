@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/onestore-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/onestore-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/onestore-manager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/onestore-manager/onestore-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/onestore-manager/onestore-pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/onestore-manager/onestore-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/onestore-manager/onestore-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/onestore-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/onestore-pojo" charset="UTF-8" />
+  </component>
+</project>
